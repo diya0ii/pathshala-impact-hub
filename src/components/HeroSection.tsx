@@ -30,7 +30,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onNavigateToVolunteer }) => {
               <span className="text-white/90 text-lg font-medium">Education for All</span>
             </div>
             
-            <h1 className="hero-title mb-6">
+            <h1 className="hero-title mb-6 mt-8">
               Basti Ki Pathshala
               <br />
               <span className="text-4xl md:text-5xl lg:text-6xl font-light">Foundation</span>
