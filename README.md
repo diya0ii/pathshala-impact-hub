@@ -1,73 +1,39 @@
-# Welcome to your Lovable project
+# Basti Ki Pathshala Foundation 🌱📚
 
-## Project info
+Welcome to the official website repository of **Basti Ki Pathshala Foundation**, a non-profit organization working to bridge the educational gap in underserved communities. Our mission is to empower children from slum areas with quality education, creating a ripple of change through knowledge, compassion, and unity.
 
-**URL**: https://lovable.dev/projects/87c2dd5b-43a1-4491-b68d-39164c009c4d
+---
 
-## How can I edit this code?
+## 🌟 Website Overview
 
-There are several ways of editing your application.
+### 🏠 Main Page Content:
 
-**Use Lovable**
+**Basti Ki Pathshala Foundation**  
+*Join us in our mission to break the barriers of education in underserved communities. With your support, we can provide quality education to children living in slum areas, empowering them with the knowledge and skills they need to build a brighter future. Together, let’s make a difference. Take action today and be a part of the change!*
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/87c2dd5b-43a1-4491-b68d-39164c009c4d) and start prompting.
+### ℹ️ About Us:
 
-Changes made via Lovable will be committed automatically to this repo.
+At Basti Ki Pathshala Foundation, collaboration is at the heart of everything we do. Under the banner of **"We Work Together,"** we embrace the power of unity, recognizing that real change comes from collective action.
 
-**Use your preferred IDE**
+Our dedicated team, passionate volunteers, generous donors, and supportive community members all play integral roles in our mission to break the barriers of education in underserved communities.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Together, we strive towards a common goal: to empower every child with the opportunity to thrive. Through shared vision, shared values, and shared effort, we pave the way for a brighter, more inclusive future for all.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Frontend**: HTML, CSS, JavaScript (or React, if applicable)
+- **Backend**: Node.js / Express.js *(if applicable)*
+- **Database**: MongoDB / Firebase *(if used)*
+- **Deployment**: Netlify / Vercel / GitHub Pages
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+> _Update this section according to your actual tech stack._
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🚀 Getting Started
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/87c2dd5b-43a1-4491-b68d-39164c009c4d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/pathshala-impact-hub.git
